@@ -1,6 +1,5 @@
-# 2019-Hack-The-North
+# Historify --- 2019 Hack The North Finalist
 
-Historify - Hack the North 2019 Finalist
 alt text
 
 Inspiration
