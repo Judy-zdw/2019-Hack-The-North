@@ -28,4 +28,14 @@ Initially we were focusing on using certain technology and trying to force it in
 ## What's next for Historify
 We feel that Historify has a ton of potential to streamline many of the problems that healthcare currently faces related to time constraints. Stemming from the history collection, we can integrate existing APIs related to medical diagnosis or develop this ourselves and determine a confidence % for a potential diagnosis. Using this, we can actually have suggested tests for likely diagnoses available on the doctor's screen and pre-populated with patient info to improve efficiency. Historify can also be deployed as a chatbot for patients who may have speech impediments or would prefer that over voice.
 
+## Technology we used
+Voiceflow
+Google Cloud Platform
+Flask
+
+https://creator.voiceflow.com/demo/19007027740719
+
+https://cool-app-12345.appspot.com/
+
+
 All copyright reserved.
