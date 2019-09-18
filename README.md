@@ -1,4 +1,4 @@
-# Historify --- 2019 Hack The North Finalist
+# Historify --- FINALIST in 2019 Hack The North
 
 alt text
 
