@@ -30,12 +30,14 @@ We feel that Historify has a ton of potential to streamline many of the problems
 
 ## Technology we used
 Voiceflow
+
 Google Cloud Platform
+
 Flask
 
-https://creator.voiceflow.com/demo/19007027740719
-
-https://cool-app-12345.appspot.com/
+## Try it out
+1. Click this [Voiceflow link](https://creator.voiceflow.com/demo/19007027740719) to have a partial or complete conversation through our conversational voice user interface;
+2. Click to open the [website](https://cool-app-12345.appspot.com/) and you can see your information updated in the webpage.
 
 
 All copyright reserved.
